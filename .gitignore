@@ -61,4 +61,6 @@ target/
 .project
 
 #Pycharm
-.idea
+.ideavenv
+venv/
+generated_doc.docx
